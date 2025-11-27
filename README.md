@@ -4,7 +4,7 @@
 EarthLive.TV is a global directory of real-time webcams, livestreams, and continuous live CCTV feeds from around the world.  
 Our platform automatically discovers, updates, and verifies live streams using the YouTube Live Data API — ensuring that all streams displayed on our website are active, accurate, and up to date.
 
-👉 **Visit the website:** https://earthlive.tv  
+👉 **Visit the website:** <a href="https://earthlive.tv" target="_blank" rel="noopener noreferrer">https://earthlive.tv</a> 
 
 ---
 
@@ -74,7 +74,7 @@ Our goal is simple:
 ## 🔗 Official Link
 
 🌐 **Website**  
-https://earthlive.tv
+<a href="https://earthlive.tv" target="_blank" rel="noopener noreferrer">https://earthlive.tv</a>
 
 ---
 
